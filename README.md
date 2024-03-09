@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ## I’m Vishisht Dubey
 ### 3rd Year, IIT Varanasi
