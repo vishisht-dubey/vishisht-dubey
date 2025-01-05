@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ## I’m Vishisht Dubey
-### 3rd Year, IIT Varanasi
+### 4th Year, IIT Varanasi
 👀 I’m interested in Web Dev, cloud technologies and AI <br>
 🌱 I’m currently working on nextjs along with nodejs, MongoDB<br>
 💞️ I’m looking to collaborate on any type of web app built upon React, Next<br>
